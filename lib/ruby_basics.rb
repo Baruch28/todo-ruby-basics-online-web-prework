@@ -1,9 +1,10 @@
 def division(num1, num2)
-
+  num1 = 45
+  num2 = 5 
 end
 
 def assign_variable(value)
-
+  value = chopsticks
 end
 
 def argue
