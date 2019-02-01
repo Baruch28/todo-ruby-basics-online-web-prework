@@ -10,12 +10,13 @@ def argue
   
 end
 
-def greeting
-
+def greeting ( see = "hello")
+ puts see
 end
 
-def return_a_value
-
+def return_a_value (phrase = "child")
+  puts phrase
+  return phrase  
 end
 
 def last_evaluated_value
