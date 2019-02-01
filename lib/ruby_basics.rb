@@ -4,7 +4,7 @@ def division(num1, num2)
 end
 
 def assign_variable(value = chopsticks)
-  puts value 
+  puts value
 end
 
 def argue (phrase = Im right and youre wrong)
